@@ -1,4 +1,5 @@
 # TributoaLarissaManoela
 Projeto de Tributo à Larissa Manoela em HTML e CSS.
 
-https://lucasgabwi.github.io/TributoaLarissaManoela/
+https://lucasgab2230.github.io/tributo-a-larissa-manoela/
+
